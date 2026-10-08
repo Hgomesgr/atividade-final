@@ -31,7 +31,7 @@ def load_prompt(file_path: str) -> str:
 
 
 # Caminho relativo para o arquivo de prompt
-PROMPT_PATH = "prompts/system_prompt.md"
+PROMPT_PATH = "system_prompt.md"
 SYSTEM_PROMPT = load_prompt(PROMPT_PATH)
 
 
