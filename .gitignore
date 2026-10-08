@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit / Secrets
+.streamlit/secrets.toml
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
